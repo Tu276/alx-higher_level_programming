@@ -1,2 +1,3 @@
---olists all tables in mysql server
+--lists all tables in mysql server
+
 SHOW TABLES;
